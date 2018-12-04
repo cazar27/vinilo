@@ -21,7 +21,7 @@
 
   <body>
 
-
+    <!-- esto es el menu de navegacion -->
     <nav class="navbar navbar-expand-md fixed-top">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsdegrados" aria-controls="navbarsdegrados" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars"></i>
